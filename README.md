@@ -1,19 +1,14 @@
-﻿# âš¡ Pikachu Landing Page Hero
+# Pikachu Landing Page
 
-A PokÃ©mon-themed frontend UI challenge celebrating Pikachu. Developed as part of a layout-construction layout and positioning challenge.
+A responsive UI layout challenge featuring Pikachu. Made for layout construction practice.
 
-## ðŸ› ï¸ Tech Stack
-- HTML5
-- Pure CSS3
-- Remix Icon CDN
+### Features
+* Custom Pokeball-inspired SVG watermark.
+* Centered layout grid with clean transitions.
+* Remix Icon integrations.
 
-## âœ¨ Features
-- Pikachu illustrations with a centered responsive grid.
-- Custom Pokeball-inspired SVG watermark background.
-- Clean navigation typography structure.
+### Tech Stack
+* HTML5 / CSS3
 
-## ðŸš€ Setup & Run
-1. Open index.html directly in any web browser.
-
-## ðŸ“„ License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### License
+MIT License.
